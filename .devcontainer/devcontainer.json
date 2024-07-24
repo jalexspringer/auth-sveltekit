@@ -16,7 +16,9 @@
         "vitest.explorer",
         "github.vscode-github-actions",
         "bradlc.vscode-tailwindcss",
-        "esbenp.prettier-vscode"
+        "esbenp.prettier-vscode",
+        "ms-azuretools.vscode-docker",
+        "Continue.continue"
       ]
     }
   }
