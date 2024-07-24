@@ -13,7 +13,6 @@
         "emranweb.daisyui-snippet",
         "svelte.svelte-vscode",
         "dbaeumer.vscode-eslint",
-        "vitest.explorer",
         "github.vscode-github-actions",
         "bradlc.vscode-tailwindcss",
         "esbenp.prettier-vscode"
