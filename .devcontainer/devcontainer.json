@@ -10,12 +10,12 @@
       // Add the IDs of extensions you want installed when the container is created.
       "extensions": [
         "oven.bun-vscode",
-        "emranweb.daisyui-snippet",
         "svelte.svelte-vscode",
         "dbaeumer.vscode-eslint",
         "github.vscode-github-actions",
         "bradlc.vscode-tailwindcss",
-        "esbenp.prettier-vscode"
+        "esbenp.prettier-vscode",
+        "ms-azuretools.vscode-docker",
       ]
     }
   }

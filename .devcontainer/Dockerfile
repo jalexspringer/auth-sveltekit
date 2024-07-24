@@ -10,3 +10,4 @@ RUN if [ "debian" == "alpine" ] ; then apk update ; else apt-get update ; fi
 # Install Git
 RUN if [ "debian" == "alpine" ] ; then apk add git ; else apt-get install -y git ; fi
 
+RUN bun i
